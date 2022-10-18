@@ -1,1 +1,2 @@
-# Yulu_Case_Study_Hypothesis_Testing
+# Yulu_Hypothesis_Testing_Case_Study
+
